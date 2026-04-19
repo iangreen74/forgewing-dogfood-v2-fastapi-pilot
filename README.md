@@ -1,2 +1,3 @@
-# forgewing-dogfood-v2-fastapi-pilot
-Forgewing v2 pilot — dedicated FastAPI test canary
+# Forgewing v2 Pilot — FastAPI
+
+Dedicated canary for v2 Step Functions pipeline testing.
